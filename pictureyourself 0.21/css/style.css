@@ -1,0 +1,20 @@
+/* line 8, ../sass/style.scss */
+.logo-small {
+  font-family: "Pacifico";
+  color: #ffcc66;
+  font-size: small;
+}
+
+/* line 14, ../sass/style.scss */
+.logo-med {
+  font-family: "Pacifico";
+  color: #ffcc66;
+  font-size: medium;
+}
+
+/* line 20, ../sass/style.scss */
+.logo-large {
+  font-family: "Pacifico";
+  color: #ffcc66;
+  font-size: x-large;
+}

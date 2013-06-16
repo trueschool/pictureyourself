@@ -1,0 +1,25 @@
+$logo-font:'Pacifico';
+$logo-color: #FFCC66;
+$blue:#182346;
+$cantaloupe: #FFCC66;
+$tangerine: #FF8000;
+
+.logo-small
+{font-family: $logo-font;
+color: $cantaloupe;
+font-size: small;
+}
+
+.logo-med
+{font-family: $logo-font;
+color: $cantaloupe;
+font-size: medium;
+}
+
+.logo-large
+{font-family: $logo-font;
+color: $cantaloupe;
+font-size: x-large;
+}
+
+
