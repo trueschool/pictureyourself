@@ -972,6 +972,7 @@
     padding: 0;
   }
   .navbar .brand {
+  font-family: 'Pacifico', cursive;
     padding-right: 10px;
     padding-left: 10px;
     margin: 0 0 0 -5px;
